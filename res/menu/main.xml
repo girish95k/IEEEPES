@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.manukothari.ieeepes.MainActivity" >
+
+    <item
+        android:id="@+id/action_example"
+        android:title="Notifications"
+        app:showAsAction="withText|ifRoom"/>
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="About Developer 2"
+        app:showAsAction="never"/>
+
+</menu>

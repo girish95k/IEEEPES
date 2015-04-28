@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">IEEE PES</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">CHAT</string>
+    <string name="about_us">The IEEE PES University Student Branch is a student-run group, under the able guidance of Prof. Divya Rao A at PES University under the worldwide IEEE banner. It is affiliated to the IEEE Bangalore Section and falls under Region 10(Asia Pacific) of the IEEE.\n\nWe regularly conduct workshops, technical activities and industrial visits that bring together students of similar interests and create an atmosphere of cohesive learning.\n\nWe are driven by the common enthusiasm to stay toe to toe with the latest in the field of technology and through this to stay true to the motto of IEEE – ‘Advancing Technology for Humanity’</string>
+    <string name="action_settings">About Developer 1</string>
+    <string name="title_activity_query">Query</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_team">The PES IEEE Team</string>
+    <string name="title_activity_about_developer">AboutDeveloper</string>
+    <string name="title_activity_about_developer2">AboutDeveloper2</string>
+
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:text="IEEE is the world’s largest professional association dedicated to advancing technological innovation and excellence for the benefit of humanity. IEEE and its members inspire a global community through IEEE&apos;s highly cited publications, conferences, technology standards, and professional and educational activities.\n\nIEEE PESIT Student Branch at PES Institute of Technology, Bangalore aims at bringing Together and Empowering Technically and Academically the Engineers of Tomorrow at PESIT."
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="#12689b" />
+
+
+</RelativeLayout>
